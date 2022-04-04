@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our githb desktop test slide!"
 ---
 This is the first modification
 
